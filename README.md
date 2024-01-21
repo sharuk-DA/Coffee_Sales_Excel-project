@@ -5,7 +5,7 @@ key learnings:
  - learned how to create dashboards using the different charts.
 
 Visualization techniques:
-- In this step i created the Timeline where we can see other KPI's in particular timeline
+- In this step i created the Timeline where we can see other KPI's values in particular timeline
 - Created the line chart for TOTAL SALES in particular time
 - Created bar chart to know the TOP 5 CUSTOMERS and TOP 3 COUNTRIES by total number of sales
 - Added multiple slicers of COFFEE ROAST TYPE, SIZE, and did the customers have LOYALITY CARD or not?
